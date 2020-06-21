@@ -1,2 +1,3 @@
-# cheatsheets
-This repository contains mostly used commands in IT world.
+# CheatSheets
+
+This repository contains cheatsheets of mostly used tools in IT world.
